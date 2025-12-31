@@ -1,5 +1,5 @@
 # MCP Gateway Docker Container
-FROM ghcr.io/ibm/mcp-context-forge:0.8.0
+FROM ghcr.io/ibm/mcp-context-forge:1.0.0-BETA-1
 
 # Expose the gateway port
 EXPOSE 4444
